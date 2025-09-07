@@ -28,22 +28,6 @@ Flask と SQLite を使った Web アプリで、以下の機能があります�
 ### Windows
 ```bash
 # 1. 仮想環境作成・有効化
-python -m venv venv
-venv\Scripts\activate
-
-# 2. Flask インストール
-pip install flask
-
-# 3. アプリ起動
-python app.py
-
-# 4. ブラウザでアクセス
-# http://localhost:5000
-```
-
-### Windows
-```bash
-# 1. 仮想環境作成・有効化
 python3 -m venv venv
 source venv/bin/activate
 
