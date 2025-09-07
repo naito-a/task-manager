@@ -41,7 +41,7 @@ python app.py
 # http://localhost:5000
 ```
 
-### macOS/Linux
+### Windows
 ```bash
 # 1. 仮想環境作成・有効化
 python3 -m venv venv
